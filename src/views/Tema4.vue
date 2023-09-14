@@ -17,9 +17,9 @@
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 4.1 Tipos 
     
-    p.mb-4(data-aos="fade-down") Los informes pueden clasificarse en función de diversos criterios, a continuación, se presentan algunos de los más comunes:
+    p.mb-4(data-aos="fade-down") Los informes pueden clasificarse en función de diversos criterios, y uno de los criterios comunes para clasificarlos es según su contenido. A continuación, se presentan dos tipos comunes de informes basados en su contenido:
 
-    h4.mb-4(data-aos="fade-right") En función del número de páginas y su extensión, los informes se pueden clasificar en dos tipos:
+    //- h4.mb-4(data-aos="fade-right") En función del número de páginas y su extensión, los informes se pueden clasificar en dos tipos:
 
     .tarjeta--container.row.mb-5(data-aos="fade-down")
       .col-md.tarjeta.color-acento-contenido.p-5
@@ -38,7 +38,7 @@
         h4.text-center.texto-negro Informes largos
         p Superan las 10 páginas, por lo que pueden extenderse en cada una de las temáticas tanto como el autor lo considere. Adicionalmente, permiten abordar problemáticas complejas o que requieren una contextualización extensa. 
 
-    h4.mb-4(data-aos="fade-right") Con base a su contenido, pueden clasificarse en 4 tipos:
+    //- h4.mb-4(data-aos="fade-right") Con base a su contenido, pueden clasificarse en 4 tipos:
 
     //- AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
     //-   .row(titulo="Beneficio uno")
