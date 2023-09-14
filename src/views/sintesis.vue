@@ -3,13 +3,13 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p La sistematización y herramientas ofimáticas facilitan utilizar la estadística, en diferentes procesos, principalmente al obtener o recopilar datos, y su posterior análisis y evaluación, con el fin de llegar a conclusiones valederas y proactivas en la formulación de planes estratégicos a nivel empresarial o con el fin de formular acciones de mejoramiento, cuando se observan falencias en los procedimientos establecidos.
+    p.mb-5 Estos datos, se convierten en un lenguaje general para ser entendido por los actores del proceso, además que son un punto común para enfrentar el panorama propio de las organizaciones. En el siguiente mapa conceptual, podrá conocer la ruta de temas vistos anteriormente:
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Síntesis del componente formativo sistematización y herramientas ofimáticas.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

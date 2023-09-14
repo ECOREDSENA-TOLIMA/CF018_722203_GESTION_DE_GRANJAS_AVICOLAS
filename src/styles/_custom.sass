@@ -1,19 +1,169 @@
-.banner-principal-decorativo
-  &-1
-    animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
+// .banner-principal-decorativo
+//   &-1
+//     animation: float1 3.5s ease-in-out infinite alternate
+//     position: absolute
+//     top: 40%
+//     right: 50%
+//   &-2
+//     animation: float1 2.8s ease-in-out infinite alternate
+//     position: absolute
+//     top: 51%
+//     right: 30%
 
 
-@keyframes float1
-  0%
-    transform: translateY(20px)
+// @keyframes float1
+//   0%
+//     transform: translateY(20px)
 
-  100%
-    transform: translateY(0px)
+//   100%
+//     transform: translateY(0px)
+
+.text-black > *
+  color: $black !important
+
+.tarjeta.color-primario
+  background-color: lighten($color-primario, 50%) !important
+  p,b
+    color: $black
+
+.tarjeta.color-secundario
+  background-color: lighten($color-secundario, 60%) !important
+  p,h5,h4,.slyder__pagination
+    color: $black
+
+.tabla-b
+  tr.cabecera-a
+    background-color: $color-primario
+    color: $white
+  .cabecera-b
+    background-color: lighten($color-secundario, 60%)
+.tabla-b th
+  padding: 10px
+
+.slyder__btn
+  background-color: $color-acento-contenido
+
+.linea-tiempo-d 
+  .tarjeta.tarjeta--gris
+    background-color: lighten($color-acento-botones, 28%)
+
+  
+.tarjeta.color-acento-botones
+  background-color: lighten($color-acento-botones, 28%) !important
+  p,h5
+    color: $black
+
+.cajones.color-primario
+  background-color: $color-primario
+
+.botones-info 
+  background-color: $color-acento-botones
+  border-radius: 2rem
+  padding: 1rem
+
+.tarjeta-c.color-secundario
+  background-color: lighten($color-secundario, 60%)
+
+.tarjeta.color-acento-contenido
+  background-color: lighten($color-acento-contenido, 28%)
+  color: $black
+
+.cabecera-tarjeta
+  background-color: $color-primario
+  padding: 1rem
+  h4
+    color: $white
+.tarjeta.tarjeta--azul.acordion__activo
+  background-color: lighten($color-secundario, 60%)
+
+.texto-negro
+  color: $black !important
+
+.con-borde
+  .tarjeta-avatar-b__img
+    min-width: 0
+
+.cajon.color-secundario
+  background-color: lighten($color-secundario, 55%)
+
+.tarjeta.color-primario 
+  i,span
+    color: $black
+
+.anexo.color-acento-botones
+  background-color: lighten($color-acento-botones, 28%) !important
+  p, h4
+    color: $black
+    margin-bottom: 1rem
+  .anexo__texto *
+    line-height: 1.5 !important
+
+.linea-tiempo-b__icon img
+  max-width: 50% !important
+
+.tarjeta.color-primario.basico
+  background-color: $color-primario !important
+  p 
+    color: $white !important
+
+.tarj.tarjeta--gris
+  background-color: lighten($color-acento-contenido, 42%)
+
+.tarj.tarjeta--primario
+  background-color: lighten($color-primario, 50%)
+
+.img-infografica__item, .img-infografica-b__item
+  width: 5%
+
+.div-footer
+  border-bottom-left-radius: 0.7rem
+  border-bottom-right-radius: 0.7rem
+  background-color: #ABFFFF
+
+.lista-custom
+  i
+    display: inline-block
+  img
+    width: auto
+  span
+    color: $black !important
+math,mfrac,mrow
+  font-weight: 900
+  font-size: small !important
+  font-family: "Roboto", sans-serif
+.tabla-b td,.tabla-b th
+  border: 1px solid #a89e9e
+
+.tabla-3 th
+  background-color: $color-primario
+  color: $white
+.tabla-3 td
+  background-color: $white
+
+tr.color-tr-a
+  background-color: #F3F9FF !important
+  color: $black
+tr.color-tr-b
+  background-color: #EBEBEB !important
+  color: $black
+
+.img-infografica-b__item__tooltip
+  display: none
+
+.img-infografica-b--open
+  background-color: $color-primario
+
+.tarjeta-avatar > img
+  width: 120px !important
+
+.tarjeta-c.color-primario
+  background-color: $color-primario
+  border-radius: 1rem
+  p 
+    color: $white
+
+.tarjeta-c.color-acento-contenido
+  background-color: $color-acento-contenido
+  border-radius: 1rem
+  p 
+    color: $white
