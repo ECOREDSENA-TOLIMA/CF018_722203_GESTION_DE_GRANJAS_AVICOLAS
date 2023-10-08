@@ -185,24 +185,24 @@ export default {
   },
   complementario: [
     {
-      tema: 'Estadística',
+      tema: '1. Estadística',
       referencia:
         'Matemáticas profe Alex (2017) Conceptos básicos de estadística [video]. YouTube.  ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Xq3thcQqwbc',
     },
     {
-      tema: 'Tabulación de datos',
+      tema: '1.4 Tabulación de datos',
       referencia:
         'math2me (2015) Tabulación de datos cualitativos [video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=6oLDbenzHrQ',
     },
     {
-      tema: 'Estructura bajo Norma Técnica de Calidad (NTC 1486)',
+      tema: '4.3 Estructura bajo Norma Técnica de Calidad (NTC 1486)',
       referencia:
         'Norma Técnica Colombiana NTC 1486. Universidad Tecnológica de Pereira.',
-      tipo: 'Sitio <em>web</em>',
+      tipo: 'Sitio web',
       link:
         'https://academia.utp.edu.co/seminario-investigacion-II/files/2017/03/Norma_Tecnica_Colombiana_NTC_1486_completa_archivo.pdf',
     },

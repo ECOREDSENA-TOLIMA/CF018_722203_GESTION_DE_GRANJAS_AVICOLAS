@@ -71,13 +71,13 @@
         figure
           img(src='@/assets/curso/temas/tema2/tema2-info.svg', alt='')
       .tarjeta.color-acento-botones.p-3(x="23%" y="56%" numero="1")
-        p Cuando los objetivos y las tareas están relacionadas con el objeto social de la empresa, se espera que el impacto se perciba de forma directa generando valor para los clientes o para la misma empresa. Algunos procesos que se incluyen en esta categoría son los de producción, los de ventas o los de recaudo.
+        p Cuando los objetivos y las tareas están relacionadas con el objeto social de la empresa, se espera que el impacto se perciba de forma directa, generando valor para los clientes o para la misma empresa. Algunos procesos que se incluyen en esta categoría son los de producción, los de ventas o los de recaudo.
       .tarjeta.color-acento-botones.p-3(x="23%" y="74%" numero="2")
         p Las tareas son diseñadas y los objetivos formulados en función de aquellas actividades que no son misionales, pero sí necesarias para mantener la empresa operativa. Ejemplo de estas son las administrativas, de selección de personal o las de vigilancia, entre otras. 
       .tarjeta.color-acento-botones.p-3(x="61%" y="56%" numero="3")
         p Comprenden las tareas a ser ejecutadas por la gerencia y subgerencias, su planteamiento puede provenir incluso desde la junta directiva. Las tareas para desarrollar suelen estar apoyadas por otros niveles, pero los responsables serán del nivel más alto de jerarquía. Un ejemplo aplicable a esta categoría es un plan de acción dirigido a la expansión a partir de la apertura de una sucursal en otra ciudad. 
       .tarjeta.color-acento-botones.p-3(x="61%" y="74%" numero="4")
-        p Usualmente son elaborados por los funcionarios de nivel estratégico, pero compilan tareas y objetivos asociados a un área organizacional. Los responsables de la coordinación de tareas suelen ser los jefes y supervisores de área. Por ejemplo, un plan de acción asociado con la implementación de una nueva línea de producción para elaborar un producto nuevo.
+        p Usualmente, son elaborados por los funcionarios de nivel estratégico, pero compilan tareas y objetivos asociados a un área organizacional. Los responsables de la coordinación de tareas suelen ser los jefes y supervisores de área. Por ejemplo, un plan de acción asociado con la implementación de una nueva línea de producción para elaborar un producto nuevo.
       .tarjeta.color-acento-botones.p-3(x="61%" y="92.5%" numero="5")
         p Las tareas aquí dispuestas suelen programarse a más a corto plazo y ser ejecutadas por el personal de menor rango jerárquico. Aunque solo se enfocan en un proceso en específico, son de vital importancia debido a que cimentan las bases para los planes de mayor nivel. Ejemplo de estos son la implementación de una estrategia de ventas en un lugar en concreto, o la transcripción de documentos físicos a medio electrónico. 
       .tarjeta.color-acento-botones.p-3(x="78%" y="56%" numero="6")

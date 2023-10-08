@@ -78,9 +78,9 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.2 Importancia
 
-    p.mb-4(data-aos="fade-down") Todas las organizaciones, a lo largo de la historia, grandes y pequeñas han llevado registro de sus actividades, en diferentes medios, dicho registro constituye por tanto un tipo de recurso de información, al hacer parte integral del capital intelectual de las empresas. Es así como la implementación de los procesos de registro de la información constituye la custodia de la memoria histórica de las actividades de la organización.
+    p.mb-4(data-aos="fade-down") Todas las organizaciones, a lo largo de la historia, grandes y pequeñas, han llevado registro de sus actividades, en diferentes medios, dicho registro constituye por tanto, un tipo de recurso de información, al hacer parte integral del capital intelectual de las empresas. Es así como la implementación de los procesos de registro de la información constituye la custodia de la memoria histórica de las actividades de la organización.
 
-    p.mb-4(data-aos="fade-down") También, dichos procesos permiten convertir la información en datos de conocimiento útil, puesto que nos permiten controlar, evidenciar y medir el resultado de los procesos y estrategias de mejoramiento que posibilita entre otros beneficios, optimizar la toma de decisiones, la consistencia operativa y la continuidad del negocio.
+    p.mb-4(data-aos="fade-down") También, dichos procesos permiten convertir la información en datos de conocimiento útil, puesto que nos permiten controlar, evidenciar y medir el resultado de los procesos y estrategias de mejoramiento que posibilita, entre otros beneficios, optimizar la toma de decisiones, la consistencia operativa y la continuidad del negocio.
 
     p.mb-4(data-aos="fade-down") Por lo anterior, es importante mantener registros de la actividad de una empresa, y esto solo se logra mediante la implementación de un buen proceso de registro de información, hacerlo puede significar una herramienta muy útil en nuestros procesos de mejoramiento, porque, de hecho, lo que no se registra no se controla, lo que no se controla no se puede medir, y lo que no se puede medir no se puede mejorar.
 
@@ -109,7 +109,7 @@
         .col-md-3.col-lg-2.col-10.mb-4.mb-md-0
           img(src='@/assets/curso/temas/tema3/tema3-6.svg', alt='')
         .col-md-9.col-lg-10.col-12
-          p Detallar las razones del por qué se presenta o se puede presentar un escenario problemático para la empresa, otorga más elementos para la toma de decisiones. Entre más detalles se tengan en consideración, más precisa puede ser la estrategia planteada.
+          p Detallar las razones del porqué se presenta o se puede presentar un escenario problemático para la empresa, otorga más elementos para la toma de decisiones. Entre más detalles se tengan en consideración, más precisa puede ser la estrategia planteada.
       .row(titulo="Planificación de actividades")
         .col-md-3.col-lg-2.col-10.mb-4.mb-md-0
           img(src='@/assets/curso/temas/tema3/tema3-7.svg', alt='')
@@ -119,7 +119,7 @@
         .col-md-3.col-lg-2.col-10.mb-4.mb-md-0
           img(src='@/assets/curso/temas/tema3/tema3-8.svg', alt='')
         .col-md-9.col-lg-10.col-12
-          p Con miras a la supervisión y monitoreo es crucial registrar los resultados que se obtienen una vez se llevan a cabo las tareas. esta información será útil para contrastar con situaciones futuras que compartan características con la problemática abordada.
+          p Con miras a la supervisión y monitoreo es crucial registrar los resultados que se obtienen una vez se llevan a cabo las tareas. Esta información será útil para contrastar con situaciones futuras que compartan características con la problemática abordada.
       .row(titulo="Evaluación de las acciones")
         .col-md-3.col-lg-2.col-10.mb-4.mb-md-0
           img(src='@/assets/curso/temas/tema3/tema3-9.svg', alt='')

@@ -7,7 +7,7 @@
         span 1
       h1 Estadística
 
-    p.mb-4(data-aos="flip-down") La recolección de información y su posterior análisis, es una práctica necesaria en la toma de decisiones. La estadística es la ciencia encargada de abordar la gestión de datos a través de metodologías y sistemas, ya sea para ordenarlos, clasificarlos y obtener conclusiones, o para proyectar eventos futuros en base a su interpretación.   
+    p.mb-4(data-aos="flip-down") La recolección de información y su posterior análisis, es una práctica necesaria en la toma de decisiones. La estadística es la ciencia encargada de abordar la gestión de datos a través de metodologías y sistemas, ya sea para ordenarlos, clasificarlos y obtener conclusiones, o para proyectar eventos futuros con base a su interpretación.   
 
     p.mb-2(data-aos="flip-down") Su aplicación es transversal a una inmensa variedad de disciplinas, ciencias o ámbitos. Esto se debe a que su razón de ser se enfoca a la gestión de datos, y prácticamente todas las áreas sociales y económicas hacen uso de la información para la producción de nuevo contenido.
 
@@ -104,7 +104,7 @@
 
     p.mb-4(data-aos="fade-down") La frecuencia absoluta es el número de veces que se recolecta un dato, es decir, la cantidad de veces que se obtiene una misma respuesta, y la relativa la porción que representa sobre el total de datos recolectados. Se presenta el siguiente ejemplo para ilustrar con el formato sugerido para este tipo de información:
 
-    p.mb-4(data-aos="fade-down") Preguntaron a 10 personas cual fue su materia favorita durante su paso por la secundaria, las respuestas recolectadas se presentan a continuación, ver tabla 1:
+    p.mb-4(data-aos="fade-down") Preguntaron a 10 personas ¿cual fue su materia favorita durante su paso por la secundaria?, las respuestas recolectadas se presentan a continuación, ver tabla 1:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-11.col-lg-9(data-aos="fade-right")
@@ -236,7 +236,7 @@
         .row
           .col-md-5.mb-4.mb-md-0
             h4.texto-negro Implementación
-            p Se socializa el diseño del plan estadístico, de tal forma que todas las áreas se hagan partícipes del proceso; posteriormente se ejecutan las tareas planteadas en su formulación y se hacen las entregas según un cronograma. Finalmente se consolidan los resultados obtenidos.
+            p Se socializa el diseño del plan estadístico, de tal forma que todas las áreas se hagan partícipes del proceso; posteriormente se ejecutan las tareas planteadas en su formulación y se hacen las entregas según un cronograma. Finalmente, se consolidan los resultados obtenidos.
           .col-md-7
             figure
               img(src='@/assets/curso/temas/tema1/tema1-15.png', alt='')

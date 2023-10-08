@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
     p La sistematización y herramientas ofimáticas facilitan utilizar la estadística, en diferentes procesos, principalmente al obtener o recopilar datos, y su posterior análisis y evaluación, con el fin de llegar a conclusiones valederas y proactivas en la formulación de planes estratégicos a nivel empresarial o con el fin de formular acciones de mejoramiento, cuando se observan falencias en los procedimientos establecidos.
-    p.mb-5 Estos datos, se convierten en un lenguaje general para ser entendido por los actores del proceso, además que son un punto común para enfrentar el panorama propio de las organizaciones. En el siguiente mapa conceptual, podrá conocer la ruta de temas vistos anteriormente:
+    p.mb-5 Estos datos se convierten en un lenguaje general para ser entendido por los actores del proceso, además que son un punto común para enfrentar el panorama propio de las organizaciones. En el siguiente mapa conceptual, podrá conocer la ruta de temas vistos anteriormente:
 
     .row.justify-content-center
       .col-lg-10.mb-5
